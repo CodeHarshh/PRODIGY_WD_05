@@ -8,9 +8,7 @@ This project is a simple weather application that allows users to check the curr
 - **Error Handling:** Displays an error message for invalid city names.
 - **Weather Information:** Shows temperature, city name, humidity, and wind speed.
 
-## Screenshots
 
-![Weather App Screenshot](./images/screenshot.png)
 
 ## Technologies Used
 
